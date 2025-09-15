@@ -1,16 +1,14 @@
+using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class dano : MonoBehaviour
+public class Dano : MonoBehaviour
 {
-    public class Chave : MonoBehaviour
-    void Start()
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (other.gameObject.CompareTag("Player"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);          
+        }
     }
 }
