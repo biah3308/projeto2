@@ -1,43 +1,34 @@
 fileFormatVersion: 2
-guid: ccee4a16d264d474ba5f406786d39b77
+guid: 24d14bfb3a9847a4bada5e93f577468a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1617209406775790638
-    second: slime_purple_0
+      213: -5321949957799140045
+    second: fruit_0
   - first:
-      213: 3387878688400670293
-    second: slime_purple_1
+      213: 6422085674583116018
+    second: fruit_1
   - first:
-      213: -4394475738540041557
-    second: slime_purple_2
+      213: 1248475614767147607
+    second: fruit_2
   - first:
-      213: 1214624252112049841
-    second: slime_purple_3
+      213: -2199681193780744630
+    second: fruit_3
   - first:
-      213: 2519323123592359420
-    second: slime_purple_4
+      213: 728017172041052461
+    second: fruit_4
   - first:
-      213: 1982192389137497048
-    second: slime_purple_5
+      213: 6696335727113552053
+    second: fruit_5
   - first:
-      213: 3014350427971737073
-    second: slime_purple_6
+      213: 2076435091191082628
+    second: fruit_6
   - first:
-      213: -5185611389655813280
-    second: slime_purple_7
+      213: 4198489572449100032
+    second: fruit_7
   - first:
-      213: 3533774183753432373
-    second: slime_purple_8
-  - first:
-      213: -9188101176490687506
-    second: slime_purple_9
-  - first:
-      213: -4078577588832239441
-    second: slime_purple_10
-  - first:
-      213: -2663131328560803267
-    second: slime_purple_11
+      213: 3508844023488525244
+    second: fruit_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,122 +124,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: slime_purple_0
+      name: fruit_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 47
-        width: 16
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d375b5ec948e89e0800000000000000
-      internalID: -1617209406775790638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_1
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 47
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55efc34a7b9240f20800000000000000
-      internalID: 3387878688400670293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_2
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 47
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: baa9f36499fa303c0800000000000000
-      internalID: -4394475738540041557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_3
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 47
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b696ba62563bd010800000000000000
-      internalID: 1214624252112049841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_4
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 23
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfd6620780f66f220800000000000000
-      internalID: 2519323123592359420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_5
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 23
-        width: 16
+        x: 1
+        y: 48
+        width: 13
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -258,19 +139,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8dbf50fc979228b10800000000000000
-      internalID: 1982192389137497048
+      spriteID: 3352af4d5b2a426b0800000000000000
+      internalID: -5321949957799140045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime_purple_6
+      name: fruit_1
       rect:
         serializedVersion: 2
-        x: 52
-        y: 23
-        width: 16
+        x: 19
+        y: 0
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c6a635e4df1950800000000000000
+      internalID: 6422085674583116018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
         height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -280,19 +183,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f55dc75ebf15d920800000000000000
-      internalID: 3014350427971737073
+      spriteID: 75aeee8f4f9735110800000000000000
+      internalID: 1248475614767147607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime_purple_7
+      name: fruit_3
       rect:
         serializedVersion: 2
-        x: 76
-        y: 23
-        width: 16
+        x: 33
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6791db992971e0800000000000000
+      internalID: -2199681193780744630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 13
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -302,19 +227,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06378586ae10908b0800000000000000
-      internalID: -5185611389655813280
+      spriteID: d2134e1c2cf6a1a00800000000000000
+      internalID: 728017172041052461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime_purple_8
+      name: fruit_5
       rect:
         serializedVersion: 2
-        x: 4
+        x: 33
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b04c577dd92eec50800000000000000
+      internalID: 6696335727113552053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea999c6baf0dc10800000000000000
+      internalID: 2076435091191082628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruit_7
+      rect:
+        serializedVersion: 2
+        x: 33
         y: 0
-        width: 16
+        width: 13
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -324,20 +293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53db11bb5ec7a0130800000000000000
-      internalID: 3533774183753432373
+      spriteID: 001a2078508044a30800000000000000
+      internalID: 4198489572449100032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slime_purple_9
+      name: fruit_8
       rect:
         serializedVersion: 2
-        x: 28
+        x: 1
         y: 0
-        width: 16
-        height: 14
+        width: 13
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,52 +315,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee38cee19ae4d7080800000000000000
-      internalID: -9188101176490687506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_10
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 0
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa009ccca4bf567c0800000000000000
-      internalID: -4078577588832239441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime_purple_11
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 0
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d325be2aa28aa0bd0800000000000000
-      internalID: -2663131328560803267
+      spriteID: cb339487c0be1b030800000000000000
+      internalID: 3508844023488525244
       vertices: []
       indices: 
       edges: []
@@ -409,19 +334,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      slime_purple_0: -1617209406775790638
-      slime_purple_1: 3387878688400670293
-      slime_purple_10: -4078577588832239441
-      slime_purple_11: -2663131328560803267
-      slime_purple_2: -4394475738540041557
-      slime_purple_3: 1214624252112049841
-      slime_purple_4: 2519323123592359420
-      slime_purple_5: 1982192389137497048
-      slime_purple_6: 3014350427971737073
-      slime_purple_7: -5185611389655813280
-      slime_purple_8: 3533774183753432373
-      slime_purple_9: -9188101176490687506
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
